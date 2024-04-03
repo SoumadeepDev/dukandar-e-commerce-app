@@ -46,7 +46,7 @@ ProductsPage: Browse and search products.
 SingleProductPage: Details of a single product.
 
 ## API Documentation
-For detailed API documentation, refer to [API Docs](https://documenter.getpostman.com/view/18152321/2s9Xy5KpTi)
+For API Documentation, refer to this Link [API Link](https://strapi-store-server.onrender.com/api/products)
 
 # Contact
 For any inquiries or feedback, feel free to reach out:
