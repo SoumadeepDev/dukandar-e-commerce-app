@@ -1,5 +1,5 @@
 ## Dukandar-e-commerce-app
-Welcome to Dukandar App, an e-commerce application built with React,React-router-dom, react-dom,Context API,axios, and for styling we used some inline css, Tailwind CSS, and Daisy UI for better UI looks.
+Welcome to Dukandar App, an e-commerce application built with React,React-router-dom, react-dom,Context API,axios, and for styling I used some inline css, Tailwind CSS, and Daisy UI for better UI looks.
 # Project Overview
 This project aims to create frontend & UI of a fully functional e-commerce platform with features like product browsing, cart management, checkout process, user login, user logout,sripe payment and more.
 # Getting Started
